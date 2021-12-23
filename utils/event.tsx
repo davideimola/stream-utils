@@ -15,5 +15,5 @@ export const currentEvent: Event = {
   ),
   host: persons.davide_imola,
   guests: [persons.davide_imola, persons.davide_imola, persons.davide_imola],
-  startTime: new Date('2021-12-22 19:00'),
+  startTime: new Date('2021-12-23 18:22'),
 };
